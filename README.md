@@ -1,2 +1,3 @@
 # Precious-1Grid
-Sample Code
+#Sample Code
+#This is website for my Dads company.
